@@ -6,4 +6,4 @@ using Jupyter Notebook
 * Silkroad 2
 * Black Bank Markeet 
 
-Each has .pptx file detailing the process that might help you to understand its .ipnb file. 
+Each has .pptx file detailing the process that might help you to understand its .ipynb file. 
