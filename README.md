@@ -9,4 +9,4 @@ Jupyter Notebook, Python, Beautifulsoup libraries
 * Silkroad 2
 * Black Bank Markeet 
 
-Each has .pptx file detailing the process that might help you to understand its .ipynb file. 
+**Each has .pptx file detailing the process that might help you to understand its .ipynb file.**
