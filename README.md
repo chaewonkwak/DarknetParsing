@@ -2,7 +2,7 @@
 
 ## Settings
 
-**Jupyter Notebook, Python, Beautifulsoup libraries**
+Jupyter Notebook, Python, Beautifulsoup libraries
 
 ## Target Markets
 * Agora Market
