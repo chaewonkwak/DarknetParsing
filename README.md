@@ -1,7 +1,10 @@
 # Darknet HTML Parsing in Python
-using Jupyter Notebook
 
+## Settings
 
+**Jupyter Notebook, Python, Beautifulsoup libraries**
+
+## Target Markets
 * Agora Market
 * Silkroad 2
 * Black Bank Markeet 
